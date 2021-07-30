@@ -11,7 +11,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Matheus SIlva",
+  username: "Matheus Silva",
   title: "Olá! , Sou Matheus",
   subTitle: emoji(
     "Um apaixonado por desenvolvimento 🚀 em buscar de aperfeiçoar habilidades no desenvolvimento web e mobile com JavaScript / Reactjs / React Native."
@@ -343,7 +343,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://content.blubrry.com/hipsterstech/hipsters_262_seguranca_informacao.mp3?_=1"
+    ""
   ],
   display: true // Set false to hide this section, defaults to true
 };
