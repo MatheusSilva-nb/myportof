@@ -350,7 +350,7 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Faço parte de uma comunidade de desenvolvedores no discord.",
+  subtitle: "...",
   number: "+55 85 981944875",
   email_address: "matheussilvacorp@gmail.com"
 };
