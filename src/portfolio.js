@@ -14,7 +14,7 @@ const greeting = {
   username: "Matheus Silva",
   title: "Olá! , Sou Matheus",
   subTitle: emoji(
-    "Um apaixonado por desenvolvimento 🚀 em buscar de aperfeiçoar habilidades no desenvolvimento web e mobile com JavaScript / Reactjs / React Native."
+    "Um apaixonado por desenvolvimento 🚀 em buscar de aperfeiçoar habilidades no desenvolvimento web e mobile com Python/ JavaScript / Reactjs / React Native."
   ),
   resumeLink:
     //link para o curriculo
