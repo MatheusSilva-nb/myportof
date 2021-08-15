@@ -300,6 +300,12 @@ const blogSection = {
       description:
         "Com suas bibliotecas tornando-se cada vez mais poderosas e fáceis de usar, a linguagem de programação python tornou-se cada vez mais..."
     },
+    {
+      url: "https://medium.com/@matheussilvacorp/port-scanner-965428d4582d",
+      title: "Port Scanner com python",
+      description:
+        "Port scanning é uma técnica em que consiste procurar possíveis portas abertas em um host; Quando você acessa algum sites..."
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -343,7 +349,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Contatos ☎️"),
   subtitle: "...",
   number: "+55 85 981944875",
   email_address: "matheussilvacorp@gmail.com"
