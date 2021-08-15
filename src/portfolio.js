@@ -291,7 +291,7 @@ const achievementSection = {
 const blogSection = {
   title: "Blog",
   subtitle:
-    "Em breve, posts sobre desenvolvimeto, hacking e etc...",
+    " ",
 
   blogs: [
     {
