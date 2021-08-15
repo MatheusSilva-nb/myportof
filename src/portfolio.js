@@ -295,17 +295,11 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://olhardigital.com.br/2021/07/29/colunistas/tecnologia-em-orbita/",
-      title: "Tecnologia em órbita",
+      url: "https://medium.com/@matheussilvacorp/python-para-hacking-%C3%A9tico-f90cbe0e20a5",
+      title: "Python para hacking ético",
       description:
-        "Steve Jobs já dizia que “a tecnologia move o mundo”. E isso ficou claro nos últimos dias quando vimos o foguete New Shepard..."
+        "Com suas bibliotecas tornando-se cada vez mais poderosas e fáceis de usar, a linguagem de programação python tornou-se cada vez mais..."
     },
-    {
-      url: "https://olhardigital.com.br/2021/07/29/internet-e-redes-sociais/clubhouse-especialista-fala-sobre-as-consequencias-juridicas-da-rede-social/",
-      title: "Clubhouse: Especialista fala sobre as consequências jurídicas da rede social",
-      description:
-        "O Clubhouse foi lançado ano passado e rapidamente se tornou uma das redes sociais mais usadas entre os usuários. "
-    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
