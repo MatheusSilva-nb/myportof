@@ -306,6 +306,12 @@ const blogSection = {
       description:
         "Port scanning é uma técnica em que consiste procurar possíveis portas abertas em um host; Quando você acessa algum sites..."
     },
+    {
+      url: "https://medium.com/@matheussilvacorp/o-xss-ocorre-quando-o-invasor-%C3%A9-capaz-de-injetar-um-script-geralmente-em-javascript-em-p%C3%A1ginas-d0cf20a5371b",
+      title: "Xss refletido",
+      description:
+        "O xss ocorre quando o invasor é capaz de injetar um script, geralmente em JavaScript, em páginas web, qualquer função pode ser realizada a partir dessa vulnerabilidade..."
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
